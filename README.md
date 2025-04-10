@@ -26,7 +26,7 @@
     
     
     
-((FEUILLET, YEAR), SOURCE) is the format
+((FEUILLET, YEAR), SOURCE) is the format(shape) of every entry in the dataset.
 give us the code to clean the dataset, the correct year is the one that occurs the most in the dataset, same for the for the correct source
 the final dataset should have the same YEAR and SOURCE for every entry
 
@@ -39,7 +39,7 @@ call it with the following credentials to login and tell us more about the authe
 email: dummy@fidatech.fr
 password: hakunamatata
 
-### 2. Tell me what is wrong with this code in phone.ts
+### 2. Tell me what is wrong with the code in phone.ts
 
 
 
