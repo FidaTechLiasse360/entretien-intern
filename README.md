@@ -2,8 +2,8 @@
 
 ## PYTHON
 ### 1.
-    From all the json files in the data folder, generate us a single json called merged.json containing every entry from every single json inside data, remove the children key
-    the final json should look like final_demo.json file
+From all the json files in the data folder, generate us a single json called merged.json containing every entry from every single json inside data, remove the children key
+the final json should look like final_demo.json file
 
 ### 2.
     From this 
